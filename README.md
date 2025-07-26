@@ -1,16 +1,5 @@
 # project-Face-Mask-Detection-with-Live-Alert-System
-This project is a real-time face mask detection system that uses computer vision and deep learning techniques to detect whether a person is wearing a face mask or not. It also includes an alert system and a simple web interface built with Flask.
-
-##  Project Structure
-
-face-mask-detector/
-├── dataset/ # Training images (with_mask, without_mask)
-├── haarcascade/ # Haar cascade for face detection
-├── model/ # Trained mask detection model
-├── train_model.py # Model training script
-├── detect_mask_realtime.py # Real-time face mask detection script
-├── requirements.txt # Python dependencies
-
+This project is a real-time face mask detection system that uses computer vision and deep learning techniques to detect whether a person is wearing a face mask or not. 
 
 
 ---
