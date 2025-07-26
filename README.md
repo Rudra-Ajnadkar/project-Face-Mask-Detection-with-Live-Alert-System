@@ -48,7 +48,7 @@ This project addresses the need for monitoring public safety during pandemics by
 Dataset contains two categories:
 - `with_mask/`: Faces wearing masks
 - `without_mask/`: Faces not wearing masks
-
+**link** : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 ---
 
